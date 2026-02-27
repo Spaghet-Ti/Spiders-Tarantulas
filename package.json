@@ -2,7 +2,7 @@
     "name": "spiders_and_tarantulas",
     "homepage": "https://spiders-tarantulas.netlify.com/",
     "devDependencies": {
-        "react-scripts": "2.1.1"
+        "react-scripts": "5.0.1"
     },
     "dependencies": {
         "bootstrap": "^4.3.1",
